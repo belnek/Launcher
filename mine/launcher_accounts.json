@@ -1,0 +1,22 @@
+{
+  "accounts" : {
+    "7caffa4263f045f9b7e205a5142eee99" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5NWFhNjIzZWUzNWQ0N2U4ODZiMjdiNDZhZTg3ODM3NiIsInlnZ3QiOiI4MDNjMzVkMDQ1ZjI0NWIzYjkzNDZlYjUxODAwYzIyNiIsInNwciI6ImFiYWZiMWVhMTI4ZDQzMGViN2M1OGFhMzgwOGEyMzJjIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MTQ2MjA2MjYsImlhdCI6MTYxNDQ0NzgyNn0.bQoWRWgScUsGai7iW-bhw5dUMb91zc77Zy3JsmIcgyA",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "7caffa4263f045f9b7e205a5142eee99",
+      "minecraftProfile" : {
+        "id" : "abafb1ea128d430eb7c58aa3808a232c",
+        "name" : "LandonStone"
+      },
+      "persistent" : true,
+      "remoteId" : "95aa623ee35d47e886b27b46ae878376",
+      "type" : "Mojang",
+      "userProperites" : [],
+      "username" : "bsolive@gmail.com"
+    }
+  },
+  "activeAccountLocalId" : "7caffa4263f045f9b7e205a5142eee99",
+  "mojangClientToken" : "671cbd52-0cdc-4b15-9553-17b97205a09b"
+}
