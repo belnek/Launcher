@@ -1,120 +1,120 @@
-[19:48:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[19:48:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[19:48:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[19:48:28] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[19:48:28] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_261, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jdk1.8.0_261\jre
-[19:48:28] [main/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRLauncher\bin\Release\mine\mods for mods
-[19:48:28] [main/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRLauncher\bin\Release\mine\mods\1.12.2 for mods
-[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[19:48:28] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[19:48:28] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from forgemod_VoxelMap-1.9.28_for_1.12.2.jar
-[19:48:28] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_G5.jar
-[19:48:28] [main/WARN] [FML]: The coremod OTGCorePlugin (com.pg85.otg.forge.asm.excluded.launch.OTGCorePlugin) is not signed!
-[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[19:48:28] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tlskincape1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[19:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[19:48:29] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/Nikita/Basic/MRLauncher/MRLauncher/bin/Release/mine/mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar Service=LaunchWrapper Env=CLIENT
-[19:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[19:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[19:48:29] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[19:48:29] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
-[19:48:29] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
-[19:48:29] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: D:\Nikita\Basic\MRLauncher\MRLauncher\bin\Release\mine\mods\OptiFine-1.12.2_HD_U_G5.jar
-[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[19:48:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[19:48:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:32] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
-[19:48:32] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
-[19:48:32] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
-[19:48:32] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[19:48:32] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[19:48:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:48:32] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
-[19:48:32] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
-[19:48:32] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 7 ms
-[19:48:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:48:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:48:33] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[19:48:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:48:33] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[19:48:33] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[19:48:34] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.lumien.bloodmoon.asm.ClassTransformer' was detected and will no longer process meta class data
-[19:48:34] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[19:48:34] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
-[19:48:34] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
-[19:48:34] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
-[19:48:34] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
-[19:48:34] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
-[19:48:34] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
-[19:48:34] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
-[19:48:34] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
-[19:48:36] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: abobi
-[19:48:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
-[19:48:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
-[19:48:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
-[19:48:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
-[19:48:38] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityFallingBlock : ack
-[19:48:38] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityTNTPrimed : acm
-[19:48:40] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
-[19:48:40] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.entity.item.EntityItemFrame], Method [func_184230_a]
-[19:48:40] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.item.EntityItemFrame Finished.
-[19:48:40] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
-[19:48:40] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityThrowable : aev
-[19:48:40] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
-[19:48:41] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityShulkerBullet : aer
-[19:48:41] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
-[19:48:41] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
-[19:48:41] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityLlamaSpit : aeo
-[19:48:42] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
-[19:48:42] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
-[19:48:43] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Forge ***
-[19:48:43] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Vanilla ***
-[19:48:43] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] 
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_G5
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] Build: 20210124-142939
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 7 (amd64) version 6.1
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_261, Oracle Corporation
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1050/PCIe/SSE2, version 4.6.0 NVIDIA 472.12, NVIDIA Corporation
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.0
-[19:48:45] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 32768x32768
-[19:48:45] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 472.12
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  NVIDIA Corporation
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: NVIDIA GeForce GTX 1050/PCIe/SSE2
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
-[19:48:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
-[19:48:46] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
-[19:48:46] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
-[19:48:46] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
-[19:48:47] [Client thread/WARN] [LLibrary Core]: Unable to call Core API! It has not been initialized yet!
-[19:48:47] [Client thread/WARN] [LLibrary Core]: Unable to call Core API! It has not been initialized yet!
-[19:48:47] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
-[19:48:47] [Client thread/INFO] [FML]: -- System Details --
+[22:35:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:35:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:35:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:35:26] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[22:35:26] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_261, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jdk1.8.0_261\jre
+[22:35:27] [main/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRDownloader\bin\Debug\Launcher\mine\mods for mods
+[22:35:27] [main/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRDownloader\bin\Debug\Launcher\mine\mods\1.12.2 for mods
+[22:35:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:35:27] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:35:27] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from forgemod_VoxelMap-1.9.28_for_1.12.2.jar
+[22:35:27] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_G5.jar
+[22:35:27] [main/WARN] [FML]: The coremod OTGCorePlugin (com.pg85.otg.forge.asm.excluded.launch.OTGCorePlugin) is not signed!
+[22:35:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:35:27] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[22:35:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tlskincape1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:35:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:35:27] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:35:27] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/Nikita/Basic/MRLauncher/MRDownloader/bin/Debug/Launcher/mine/mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar Service=LaunchWrapper Env=CLIENT
+[22:35:28] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:35:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:35:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:35:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:35:28] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:35:28] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:35:28] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[22:35:28] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[22:35:28] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: D:\Nikita\Basic\MRLauncher\MRDownloader\bin\Debug\Launcher\mine\mods\OptiFine-1.12.2_HD_U_G5.jar
+[22:35:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:31] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:35:31] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:35:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:31] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[22:35:31] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+[22:35:31] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[22:35:31] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:35:31] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:35:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:35:31] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[22:35:31] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[22:35:31] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 7 ms
+[22:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:35:32] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:35:32] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:35:32] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.lumien.bloodmoon.asm.ClassTransformer' was detected and will no longer process meta class data
+[22:35:32] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:35:33] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[22:35:33] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[22:35:33] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[22:35:33] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[22:35:33] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[22:35:33] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[22:35:33] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[22:35:33] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
+[22:35:34] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: abobi
+[22:35:34] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
+[22:35:34] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
+[22:35:35] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
+[22:35:35] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
+[22:35:35] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityFallingBlock : ack
+[22:35:35] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityTNTPrimed : acm
+[22:35:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
+[22:35:37] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.entity.item.EntityItemFrame], Method [func_184230_a]
+[22:35:37] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.item.EntityItemFrame Finished.
+[22:35:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
+[22:35:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityThrowable : aev
+[22:35:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
+[22:35:37] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityShulkerBullet : aer
+[22:35:37] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
+[22:35:37] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
+[22:35:38] [Client thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityLlamaSpit : aeo
+[22:35:39] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[22:35:39] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[22:35:39] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Forge ***
+[22:35:39] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Vanilla ***
+[22:35:39] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] 
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] Build: 20210124-142939
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 7 (amd64) version 6.1
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_261, Oracle Corporation
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1050/PCIe/SSE2, version 4.6.0 NVIDIA 472.12, NVIDIA Corporation
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.0
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 32768x32768
+[22:35:43] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 472.12
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  NVIDIA Corporation
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: NVIDIA GeForce GTX 1050/PCIe/SSE2
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+[22:35:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[22:35:43] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[22:35:45] [Client thread/WARN] [LLibrary Core]: Unable to call Core API! It has not been initialized yet!
+[22:35:45] [Client thread/WARN] [LLibrary Core]: Unable to call Core API! It has not been initialized yet!
+[22:35:45] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[22:35:45] [Client thread/INFO] [FML]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 7 (amd64) version 6.1
 	Java Version: 1.8.0_261, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 106731008 bytes (101 MB) / 280838144 bytes (267 MB) up to 1035206656 bytes (987 MB)
+	Memory: 145448272 bytes (138 MB) / 311869440 bytes (297 MB) up to 1035206656 bytes (987 MB)
 	JVM Flags: 3 total; -Xmn128M -Xmx1000M -XX:+UseConcMarkSweepGC
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
@@ -134,85 +134,85 @@ TLSkinCapeHookLoader (tlskincape1.12.2-1.4.jar)
 LoadingPlugin (Bloodmoon-MC1.12.2-1.5.3.jar)
   lumien.bloodmoon.asm.ClassTransformer
 	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 472.12' Renderer: 'NVIDIA GeForce GTX 1050/PCIe/SSE2'
-[19:48:47] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
-[19:48:47] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[19:48:48] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[19:48:48] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
-[19:48:49] [VersionCheck/INFO] [Config]: [OptiFine] Version found: G5
-[19:48:49] [Client thread/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRLauncher\bin\Release\mine\mods for mods
-[19:48:49] [Client thread/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRLauncher\bin\Release\mine\mods\1.12.2 for mods
-[19:48:51] [Client thread/WARN] [FML]: Mod damageindicatorsmod is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
-[19:48:51] [Client thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.1
-[19:48:51] [Client thread/INFO] [FML]: Mod demonicintervention is missing the required element 'name'. Substituting demonicintervention
-[19:48:52] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 1772520727 nanos
-[19:48:54] [Client thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[19:48:55] [Client thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
-[19:48:59] [Client thread/INFO] [FML]: Forge Mod Loader has identified 71 mods to load
-[19:48:59] [Client thread/INFO] [FML]: FML has found a non-mod file MathParser.org-mXparser-4.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[19:48:59] [Client thread/INFO] [FML]: FML has found a non-mod file AutoSave-1.12.2-1.0.11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[19:48:59] [Client thread/INFO] [FML]: FML has found a non-mod file AutoConfig-1.12.2-1.0.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[19:49:00] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, techguns_core, voxelmap, zombietech, damageindicatorsmod, baubles, bettercaves, bettermineshafts, betternether, unspeakable_items, bloodmoon, botania, demonicintervention, divinerpg, dldungeonsjbg, dregora, dungeonsmod, ebwizardry, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderioinvpanel, enderiomachines, enderiopowertools, extrautils2, mod_lavacow, forbidden_arcanus, geckolib3, guideapi, ic2, infernalmobs, ironchest, jei, mm, mantle, medieval_craft, mowziesmobs, openterraingenerator, patchouli, pmmo, reborncore, roguelike, rpginventory, srparasites, subcommonlib, techguns, techreborn, tfspellpack, thaumcraft, thaumicpotatoes, tlauncher_custom_cape_skin, travelersbackpack, twilightforest, vampiresneedumbrellas, teamlapen-lib, vampirism, llibrary, structurize, minecolonies, techreborn_compat] at CLIENT
-[19:49:00] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, techguns_core, voxelmap, zombietech, damageindicatorsmod, baubles, bettercaves, bettermineshafts, betternether, unspeakable_items, bloodmoon, botania, demonicintervention, divinerpg, dldungeonsjbg, dregora, dungeonsmod, ebwizardry, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderioinvpanel, enderiomachines, enderiopowertools, extrautils2, mod_lavacow, forbidden_arcanus, geckolib3, guideapi, ic2, infernalmobs, ironchest, jei, mm, mantle, medieval_craft, mowziesmobs, openterraingenerator, patchouli, pmmo, reborncore, roguelike, rpginventory, srparasites, subcommonlib, techguns, techreborn, tfspellpack, thaumcraft, thaumicpotatoes, tlauncher_custom_cape_skin, travelersbackpack, twilightforest, vampiresneedumbrellas, teamlapen-lib, vampirism, llibrary, structurize, minecolonies, techreborn_compat] at SERVER
-[19:49:02] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderEntityItem:169]: Successfully patched RenderEntityItem with ASM
-[19:49:02] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderEntityItem:169]: Successfully patched RenderEntityItem with ASM
-[19:49:04] [Client thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[19:49:05] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderModel:482]: Successfully patched 2 arg RenderItem.RenderModel with ASM
-[19:49:05] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem2:370]: Successfully patched 2 arg RenderItem.RenderItem with ASM
-[19:49:05] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem:301]: Successfully patched 4 arg RenderItem.RenderItem with ASM
-[19:49:05] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItemGUI:425]: Successfully patched RenderItem.renderItemModelIntoGUI with ASM
-[19:49:05] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
-[19:49:05] [Client thread/INFO] [EnderCore ASM]: Transforming failed. Applying ersatz patch...
-[19:49:05] [Client thread/WARN] [EnderCore ASM]: Ersatz patch applied, things may break!
-[19:49:05] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.client.renderer.RenderItem Finished.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.integration.thaumcraft.ThaumcraftArmorMixin
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.integration.thaumcraft.ThaumcraftArmorMixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.api.upgrades.IDarkSteelItem
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.power.forge.item.IInternalPoweredItem
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Patching 2 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor (ThaumcraftArmorMixin, DarkSteelUpgradeMixin)
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Added 3 new interfaces: [thaumcraft/api/items/IVisDiscountGear, thaumcraft/api/items/IGoggles, thaumcraft/api/items/IRevealer]
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [showNodes(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/EntityLivingBase;)Z, showIngamePopups(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/EntityLivingBase;)Z, getVisDiscount(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;)I]
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Added 4 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, addCommonEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, addBasicEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$ISolidBlockPaintableBlock
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$IBlockPaintableBlock
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$INonSolidBlockPaintableBlock
-[19:49:07] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$ITexturePaintableBlock
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemInventoryCharger from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemInventoryCharger (DarkSteelUpgradeMixin)
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook (DarkSteelUpgradeMixin)
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
-[19:49:08] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
-[19:49:09] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.conduit.me.conduit.MEMixin
-[19:49:10] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [appliedenergistics2|API]
-[19:49:10] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.conduit.oc.conduit.OCMixin
-[19:49:10] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [opencomputersapi|network]
-[19:49:10] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.integration.forestry.upgrades.ArmorMixin
-[19:49:10] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [forestry]
-[19:49:15] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchItemRenderer_updateEquippedItem:530]: Successfully patched ItemRenderer.updateEquippedItem with ASM
-[19:49:16] [Client thread/ERROR] [FML]: Error registering event handler: FMLMod:pmmo{1.12.2} class net.minecraftforge.event.RegistryEvent$Register public static void harmonised.pmmo.events.EventHandler.registerTasks(net.minecraftforge.event.RegistryEvent$Register)
+[22:35:45] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[22:35:45] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:35:45] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:35:46] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:35:46] [Client thread/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRDownloader\bin\Debug\Launcher\mine\mods for mods
+[22:35:46] [Client thread/INFO] [FML]: Searching D:\Nikita\Basic\MRLauncher\MRDownloader\bin\Debug\Launcher\mine\mods\1.12.2 for mods
+[22:35:47] [VersionCheck/INFO] [Config]: [OptiFine] Version found: G5
+[22:35:47] [Client thread/WARN] [FML]: Mod damageindicatorsmod is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[22:35:47] [Client thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.1
+[22:35:47] [Client thread/INFO] [FML]: Mod demonicintervention is missing the required element 'name'. Substituting demonicintervention
+[22:35:48] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 309482094 nanos
+[22:35:50] [Client thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[22:35:50] [Client thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[22:35:53] [Client thread/INFO] [FML]: Forge Mod Loader has identified 71 mods to load
+[22:35:53] [Client thread/INFO] [FML]: FML has found a non-mod file MathParser.org-mXparser-4.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:35:53] [Client thread/INFO] [FML]: FML has found a non-mod file AutoSave-1.12.2-1.0.11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:35:53] [Client thread/INFO] [FML]: FML has found a non-mod file AutoConfig-1.12.2-1.0.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:35:55] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, techguns_core, voxelmap, zombietech, damageindicatorsmod, baubles, bettercaves, bettermineshafts, betternether, unspeakable_items, bloodmoon, botania, demonicintervention, divinerpg, dldungeonsjbg, dregora, dungeonsmod, ebwizardry, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderioinvpanel, enderiomachines, enderiopowertools, extrautils2, mod_lavacow, forbidden_arcanus, geckolib3, guideapi, ic2, infernalmobs, ironchest, jei, mm, mantle, medieval_craft, mowziesmobs, openterraingenerator, patchouli, pmmo, reborncore, roguelike, rpginventory, srparasites, subcommonlib, techguns, techreborn, tfspellpack, thaumcraft, thaumicpotatoes, tlauncher_custom_cape_skin, travelersbackpack, twilightforest, vampiresneedumbrellas, teamlapen-lib, vampirism, llibrary, structurize, minecolonies, techreborn_compat] at CLIENT
+[22:35:55] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, techguns_core, voxelmap, zombietech, damageindicatorsmod, baubles, bettercaves, bettermineshafts, betternether, unspeakable_items, bloodmoon, botania, demonicintervention, divinerpg, dldungeonsjbg, dregora, dungeonsmod, ebwizardry, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderioinvpanel, enderiomachines, enderiopowertools, extrautils2, mod_lavacow, forbidden_arcanus, geckolib3, guideapi, ic2, infernalmobs, ironchest, jei, mm, mantle, medieval_craft, mowziesmobs, openterraingenerator, patchouli, pmmo, reborncore, roguelike, rpginventory, srparasites, subcommonlib, techguns, techreborn, tfspellpack, thaumcraft, thaumicpotatoes, tlauncher_custom_cape_skin, travelersbackpack, twilightforest, vampiresneedumbrellas, teamlapen-lib, vampirism, llibrary, structurize, minecolonies, techreborn_compat] at SERVER
+[22:35:56] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderEntityItem:169]: Successfully patched RenderEntityItem with ASM
+[22:35:56] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderEntityItem:169]: Successfully patched RenderEntityItem with ASM
+[22:35:58] [Client thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[22:35:59] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderModel:482]: Successfully patched 2 arg RenderItem.RenderModel with ASM
+[22:35:59] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem2:370]: Successfully patched 2 arg RenderItem.RenderItem with ASM
+[22:35:59] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItem:301]: Successfully patched 4 arg RenderItem.RenderItem with ASM
+[22:35:59] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchRenderItem_patchMethodRenderItemGUI:425]: Successfully patched RenderItem.renderItemModelIntoGUI with ASM
+[22:35:59] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
+[22:35:59] [Client thread/INFO] [EnderCore ASM]: Transforming failed. Applying ersatz patch...
+[22:35:59] [Client thread/WARN] [EnderCore ASM]: Ersatz patch applied, things may break!
+[22:35:59] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.integration.thaumcraft.ThaumcraftArmorMixin
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.integration.thaumcraft.ThaumcraftArmorMixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.api.upgrades.IDarkSteelItem
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin.
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.power.forge.item.IInternalPoweredItem
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Patching 2 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor (ThaumcraftArmorMixin, DarkSteelUpgradeMixin)
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Added 3 new interfaces: [thaumcraft/api/items/IVisDiscountGear, thaumcraft/api/items/IGoggles, thaumcraft/api/items/IRevealer]
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [showNodes(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/EntityLivingBase;)Z, showIngamePopups(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/EntityLivingBase;)Z, getVisDiscount(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;)I]
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Added 4 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, addCommonEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, addBasicEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[22:35:59] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$ISolidBlockPaintableBlock
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$IBlockPaintableBlock
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$INonSolidBlockPaintableBlock
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$ITexturePaintableBlock
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemInventoryCharger from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemInventoryCharger (DarkSteelUpgradeMixin)
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook (DarkSteelUpgradeMixin)
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[22:36:00] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
+[22:36:01] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.conduit.me.conduit.MEMixin
+[22:36:01] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [appliedenergistics2|API]
+[22:36:01] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.conduit.oc.conduit.OCMixin
+[22:36:01] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [opencomputersapi|network]
+[22:36:01] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.integration.forestry.upgrades.ArmorMixin
+[22:36:01] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [forestry]
+[22:36:04] [Client thread/INFO] [STDOUT]: [techguns.core.TechgunsASMTransformer:patchItemRenderer_updateEquippedItem:530]: Successfully patched ItemRenderer.updateEquippedItem with ASM
+[22:36:04] [Client thread/ERROR] [FML]: Error registering event handler: FMLMod:pmmo{1.12.2} class net.minecraftforge.event.RegistryEvent$Register public static void harmonised.pmmo.events.EventHandler.registerTasks(net.minecraftforge.event.RegistryEvent$Register)
 java.lang.TypeNotPresentException: Type com.feed_the_beast.ftbquests.quest.task.TaskType not present
 	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:117) ~[?:1.8.0_261]
 	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125) ~[?:1.8.0_261]
@@ -272,7 +272,7 @@ Caused by: java.lang.ClassNotFoundException: com.feed_the_beast.ftbquests.quest.
 	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114) ~[?:1.8.0_261]
 	... 48 more
 Caused by: java.lang.NullPointerException
-[19:49:17] [Client thread/ERROR] [FML]: Error registering event handler: FMLMod:pmmo{1.12.2} class net.minecraftforge.event.RegistryEvent$Register public static void harmonised.pmmo.events.EventHandler.registerRewards(net.minecraftforge.event.RegistryEvent$Register)
+[22:36:04] [Client thread/ERROR] [FML]: Error registering event handler: FMLMod:pmmo{1.12.2} class net.minecraftforge.event.RegistryEvent$Register public static void harmonised.pmmo.events.EventHandler.registerRewards(net.minecraftforge.event.RegistryEvent$Register)
 java.lang.TypeNotPresentException: Type com.feed_the_beast.ftbquests.quest.reward.RewardType not present
 	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:117) ~[?:1.8.0_261]
 	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125) ~[?:1.8.0_261]
@@ -332,20 +332,20 @@ Caused by: java.lang.ClassNotFoundException: com.feed_the_beast.ftbquests.quest.
 	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114) ~[?:1.8.0_261]
 	... 48 more
 Caused by: java.lang.NullPointerException
-[19:49:17] [Client thread/ERROR] [FML]: The mod reborncore is expecting signature 8727a3141c8ec7f173b87aa78b9b9807867c4e6b for source RebornCore-1.12.2-3.19.5-universal.jar, however there is no signature matching that description
-[19:49:17] [Client thread/ERROR] [reborncore]: Invalid fingerprint detected for RebornCore!
-[19:49:20] [Client thread/INFO] [FML]: The game window is being closed by the player, exiting.
-[19:49:20] [Client thread/WARN] [FML]: Java has been asked to exit (code 0)
-[19:49:20] [Client thread/WARN] [FML]: Exit trace:
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraftforge.fml.common.LoadController.transition(LoadController.java:145)
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraftforge.fml.common.Loader.loadMods(Loader.java:615)
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraft.client.main.Main.main(SourceFile:123)
-[19:49:20] [Client thread/WARN] [FML]: 	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[19:49:20] [Client thread/WARN] [FML]: 	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-[19:49:20] [Client thread/WARN] [FML]: 	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-[19:49:20] [Client thread/WARN] [FML]: 	java.lang.reflect.Method.invoke(Method.java:498)
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
-[19:49:20] [Client thread/WARN] [FML]: 	net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:36:05] [Client thread/ERROR] [FML]: The mod reborncore is expecting signature 8727a3141c8ec7f173b87aa78b9b9807867c4e6b for source RebornCore-1.12.2-3.19.5-universal.jar, however there is no signature matching that description
+[22:36:05] [Client thread/ERROR] [reborncore]: Invalid fingerprint detected for RebornCore!
+[22:36:06] [Client thread/INFO] [FML]: The game window is being closed by the player, exiting.
+[22:36:06] [Client thread/WARN] [FML]: Java has been asked to exit (code 0)
+[22:36:06] [Client thread/WARN] [FML]: Exit trace:
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraftforge.fml.common.LoadController.transition(LoadController.java:145)
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraftforge.fml.common.Loader.loadMods(Loader.java:615)
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraft.client.main.Main.main(SourceFile:123)
+[22:36:06] [Client thread/WARN] [FML]: 	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:36:06] [Client thread/WARN] [FML]: 	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:36:06] [Client thread/WARN] [FML]: 	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:36:06] [Client thread/WARN] [FML]: 	java.lang.reflect.Method.invoke(Method.java:498)
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:36:06] [Client thread/WARN] [FML]: 	net.minecraft.launchwrapper.Launch.main(Launch.java:28)
