@@ -1,4 +1,5 @@
 @echo off
+IF EXIST Launcher\ cd launcher\
 cd mine
 SET APPDATA=%CD%
 

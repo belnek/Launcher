@@ -1,2 +1,0 @@
-MineRiseLauncher.exe
-exit
